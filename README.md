@@ -9,7 +9,7 @@ Este proyecto es el sitio web para "Daniel Barber", una barbería ficticia. El s
 
 ¡Haz clic en el enlace para ver el sistema funcionando en vivo!
 
-[![Deploy with Vercel](https://vercel.com/button)]([Pega aquí el URL de tu demo en Vercel]) 
+[![Deploy with Vercel](https://vercel.com/button)](https://barberia-blush.vercel.app)
 ---
 
 ## 🚀 Características
